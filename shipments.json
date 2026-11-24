@@ -1,0 +1,27 @@
+[
+  {
+    "id": 123,
+    "weight": 1.6,
+    "content": "glassware",
+    "status": "placed"
+  },
+  {
+    "id": 124,
+    "weight": 1.1,
+    "content": "books",
+    "status": "shipped"
+  },
+  {
+    "id": 125,
+    "weight": 3.4,
+    "content": "furniture",
+    "status": "in_transit"
+  },
+  {
+    "id": 126,
+    "content": "HP Laptop",
+    "weight": 1.4,
+    "destination": 11700,
+    "status": "out_for_delivery"
+  }
+]
